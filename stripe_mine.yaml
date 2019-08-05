@@ -1,6 +1,4 @@
 swagger: '2.0'
-schemes:
-  - https
 basePath: /elements/api-v2
 paths:
   /balances:
