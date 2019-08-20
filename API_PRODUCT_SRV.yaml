@@ -56,6 +56,7 @@ produces:
 - application/json
 tags:
 - name: A_Product
+  description : Check this Product.
 - name: A_ProductBasicText
 - name: A_ProductDescription
 - name: A_ProductInspectionText
